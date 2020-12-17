@@ -16,8 +16,7 @@ namespace All_In_One_Line
 
         private void InputedText_TextChanged(object sender, TextChangedEventArgs e)
         {
-            string resultProccedText = InputedText.Text;
-            resultProccedText = InputedText.Text.Replace(Environment.NewLine, " ");
+            string resultProccedText = InputedText.Text.Replace(Environment.NewLine, " ");
             ResultText.Text = resultProccedText;
         }
 
