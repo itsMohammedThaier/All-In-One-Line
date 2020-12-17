@@ -1,5 +1,5 @@
 # All In One Line
-I made this project for personal usage; But i'll share it with you whatever.
+I made this project for personal usage; But i'll share it with you Anyway.
 
 ## Properties
 * Single C# file.
